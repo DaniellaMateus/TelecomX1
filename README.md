@@ -7,7 +7,8 @@
 
 Este projeto foi desenvolvido como parte do desafio do programa Oracle Next Education (ONE), com foco na aplicação prática do processo de ETL e Análise Exploratória de Dados.
 
-A empresa TelecomX enfrenta alto índice de evasão de clientes (churn). O objetivo é extrair, tratar e analisar os dados para identificar padrões que expliquem esse comportamento.
+A empresa vem sofrendo um alto índice de evasão de clientes, mas ainda não conseguiu identificar as causas desse problema. Nesse contexto, eu atuo como assistente de análise de dados, assumindo a responsabilidade por uma das etapas mais importantes do processo analítico. Sou responsável por extrair, tratar e realizar a análise exploratória dos dados da empresa, colocando em prática meus conhecimentos sobre o processo de ETL para transformar dados brutos em informações estratégicas.
+
 
 ---
 

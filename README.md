@@ -63,7 +63,7 @@ A empresa TelecomX enfrenta alto índice de evasão de clientes (churn). O objet
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+- Numpy  
 - Jupyter Notebook  
 
 ---
